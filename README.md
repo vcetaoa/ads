@@ -1,5 +1,11 @@
 # Data Analysis Experiments
 
+> [!IMPORTANT]
+> **CRITICAL EXAM INSTRUCTION:** 
+> **You MUST change the CSV file name inside the Python code if a different dataset name is given to you during the exam!**
+> 
+> *(Example: If your given file is `exam_data.csv`, make sure the line `dataset_name = sys.argv[1] if len(sys.argv) > 1 else 'exam_data.csv'` reflects that name as the default!)*
+
 ## Description of All 7 Experiments
 
 This repository contains heavily standardized and rigorously validated scripts for 7 fundamental Data Science workflows:
