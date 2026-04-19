@@ -53,7 +53,7 @@ python <script_name>.py [optional_dataset.csv]
 
 # 1. Descriptive Statistics
 python exp1_descriptive_statistics.py 
-# (Optionally test with your own exam data:) -> python exp1_descriptive_statistics.py exam_data.csv
+# (Optionally test with your own exam data:) -> python exp1_descriptive_statistics.py
 
 # 2. Data Cleaning
 python exp2_data_cleaning.py
