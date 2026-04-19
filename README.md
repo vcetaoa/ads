@@ -2,9 +2,9 @@
 
 > [!IMPORTANT]
 > **CRITICAL EXAM INSTRUCTION:** 
-> **You MUST change the CSV file name inside the Python code if a different dataset name is given to you during the exam!**
+> **You MUST manually edit the Python code file inside the IDE and change the CSV file name if a different sequence is given to you during the exam!**
 > 
-> *(Example: If your given file is `exam_data.csv`, make sure the line `dataset_name = sys.argv[1] if len(sys.argv) > 1 else 'exam_data.csv'` reflects that name as the default!)*
+> *(Example: Go to Line 8, find `df = pd.read_csv('titanic.csv')`, and physically change it to `df = pd.read_csv('exam_data.csv')`)*
 
 ## Description of All 7 Experiments
 
