@@ -1,5 +1,10 @@
 # Data Analysis Experiments
 
+```bash
+pip install pandas numpy matplotlib seaborn plotly wordcloud scikit-learn imbalanced-learn tensorflow
+```
+
+
 # https://colab.research.google.com/drive/1-4tj3gRGIGqVdLBbUmwvhT243XHvnjvB?usp=sharing
 
 # import pandas as pd only this will be used 
