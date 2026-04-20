@@ -3,9 +3,14 @@
 # https://colab.research.google.com/drive/1-4tj3gRGIGqVdLBbUmwvhT243XHvnjvB?usp=sharing
 
 # import pandas as pd
-
+```
 df = pd.read_csv("data.csv", usecols=["col1", "col2"])
+```
 
+# Drop Multiple Columns
+```
+df.drop(["col1", "col2"], axis=1, inplace=True)
+```
 
 > [!IMPORTANT]
 > **CRITICAL EXAM INSTRUCTION:** 
