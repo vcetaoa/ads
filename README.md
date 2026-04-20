@@ -2,7 +2,7 @@
 
 # https://colab.research.google.com/drive/1-4tj3gRGIGqVdLBbUmwvhT243XHvnjvB?usp=sharing
 
-# import pandas as pd
+# import pandas as pd only this will be used 
 ```
 df = pd.read_csv("data.csv", usecols=["col1", "col2"])
 ```
